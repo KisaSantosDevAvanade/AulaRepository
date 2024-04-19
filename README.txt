@@ -1,5 +1,7 @@
 Projeto de base de dados de clientes de uma GRAVADORA.
 
+arquivo de contrato: Cliente.docx
+
 Cliente é registrado dentro da base de dados do sistema:
 Irá ser criado um objeto chamado compositor, musica e album.
 A estrutura é:
